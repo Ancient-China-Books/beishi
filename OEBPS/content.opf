@@ -128,6 +128,7 @@
     <item id="id98" href="Text/2020.html" media-type="application/xhtml+xml"/>
     <item id="id99" href="Text/2021.html" media-type="application/xhtml+xml"/>
     <item id="id100" href="Text/2022.html" media-type="application/xhtml+xml"/>
+    <item id="i1960" href="Images/1960.png" media-type="image/png"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
